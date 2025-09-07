@@ -1,7 +1,7 @@
 # 👋 About Me
 
-Hi, I'm **Shree** — an AI & Machine Learning enthusiast passionate about building smart, practical, and user-focused applications.  
-Currently exploring projects that combine AI, software engineering, and problem-solving for real-world impact. Aspiring AI ans Software Developer
+Hi, I'm **Shree** — an AI & ML student, enthusiast passionate about building smart, practical, and user-focused applications.  
+Currently exploring projects that combine AI, software engineering, and problem-solving for real-world impact. Aspiring AI and Software Developer.
 
 
 # 💻 Tech Stack:
